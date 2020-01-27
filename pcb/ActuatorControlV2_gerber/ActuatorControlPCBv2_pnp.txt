@@ -1,0 +1,80 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=ActuatorControlPCBv2
+*Date=14:14:00
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;74.3474;-19.1707;0;Bottom;TXT12
+2;;THT;17.1808;-9.18941;90;Bottom;ControlSwitch
+3;;;23.1901;-46.6408;0;Bottom;TXT1
+4;;;47.6305;-17.1666;0;Bottom;TXT12
+5;;;49.1998;-32.131;0;Bottom;Copper Fill32
+6;;;38.1;-25.4;0;Bottom;Copper Fill1
+7;;THT;4.48076;-9.18941;0;Bottom;IdleSwitch
+8;;THT;42.5808;-9.18941;0;Bottom;ActSwitch2
+9;;;23.2007;-44.9113;0;Bottom;TXT1
+10;;;10.8966;-9.2075;0;Bottom;Copper Fill18
+11;;;61.6458;-38.3794;0;Bottom;Copper Fill4
+12;;THT;67.9808;-9.18941;0;Bottom;ActSwitch4
+13;;;60.5235;-1.79025;0;Bottom;TXT10
+14;;THT;61.5038;-35.8594;180;Bottom;Header Box
+15;;;61.6458;-35.8394;0;Bottom;Copper Fill34
+16;;;32.2558;-17.1666;0;Bottom;TXT12
+17;;;12.0777;-8.0772;0;Bottom;Copper Fill17
+18;;;3.2766;-14.2875;0;Bottom;Copper Fill11
+19;;;69.5706;-19.3675;0;Bottom;Copper Fill20
+20;;;70.4977;-18.4912;0;Bottom;Copper Fill19
+21;;;61.6458;-40.9194;0;Bottom;Copper Fill30
+22;;;61.6458;-30.7594;0;Bottom;Copper Fill7
+23;;;61.6458;-40.9194;0;Bottom;Copper Fill3
+24;;;63.7286;-44.7675;0;Bottom;Copper Fill24
+25;;;61.6458;-38.3794;0;Bottom;Copper Fill31
+26;;;74.4428;-24.1918;0;Bottom;TXT12
+27;;;4.4577;-15.4686;0;Bottom;Copper Fill10
+28;;;39.9918;-17.1666;0;Bottom;TXT12
+29;;;66.7258;-34.5948;0;Bottom;Copper Fill33
+30;;;47.9044;-34.6456;0;Bottom;Copper Fill28
+31;;;62.8777;-45.6438;0;Bottom;Copper Fill23
+32;;;55.2577;-15.4686;0;Bottom;Copper Fill14
+33;;;29.8577;-15.4686;0;Bottom;Copper Fill12
+34;;;19.3564;-48.3257;0;Bottom;TXT1
+35;;;69.088;-14.2875;0;Bottom;Copper Fill16
+36;;;74.4574;-29.3342;0;Bottom;TXT12
+37;;;70.4977;-25.3746;0;Bottom;Copper Fill8
+38;;;43.0161;-20.2678;0;Bottom;TXT13
+39;;;50.4698;-29.5148;0;Bottom;Copper Fill36
+40;;DIP (Dual Inline) [THT];24.8008;-34.5894;-90;Bottom;Nucleo F031K6
+41;;;71.1235;-1.81424;0;Bottom;TXT11
+42;;;61.6458;-33.2994;0;Bottom;Copper Fill35
+43;;;61.6458;-30.7594;0;Bottom;Copper Fill38
+44;;;61.6458;-33.2994;0;Bottom;Copper Fill6
+45;;;66.7258;-29.5148;0;Bottom;Copper Fill37
+46;;THT;55.2808;-9.18941;0;Bottom;ActSwitch3
+47;;THT;29.8808;-9.18941;0;Bottom;ActSwitch1
+48;;;55.1971;-17.1666;0;Bottom;TXT12
+49;;;67.9577;-15.4686;0;Bottom;Copper Fill15
+50;;;61.6458;-35.8394;0;Bottom;Copper Fill5
+51;;;60.3377;-45.6438;0;Bottom;Copper Fill22
+52;;;38.1;-25.4;0;Bottom;Copper Fill39
+53;;;66.7258;-39.6748;0;Bottom;Copper Fill29
+54;;;42.5577;-15.4686;0;Bottom;Copper Fill13
+55;;;71.374;-24.4475;0;Bottom;Copper Fill9
+56;;;63.7286;-34.6075;0;Bottom;Copper Fill26
+57;;;7.22595;-1.60065;0;Bottom;TXT12
+58;;THT;70.5208;-24.4294;0;Bottom;ExternalPower
+59;;;14.6251;-12.3384;0;Bottom;TXT12
+60;;;24.9553;-12.2661;0;Bottom;TXT12
+61;;;63.7286;-39.6875;0;Bottom;Copper Fill25
+62;;;71.374;-19.3675;0;Bottom;Copper Fill21
+63;;;61.6458;-43.4594;0;Bottom;Copper Fill2
+64;;;7.13207;-16.662;0;Bottom;TXT12
+65;;;61.6458;-43.4594;0;Bottom;Copper Fill27
